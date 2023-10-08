@@ -16,7 +16,8 @@
 9. [Contact](#contact)
 
 ## Overview
-This project demonstrates real-time face, eye, and smile detection using Python and the OpenCV library. I leveraged Haar-cascade classifiers to detect faces, eyes, and smiles in a webcam feed and draw rectangles around them.
+This project demonstrates real-time face, eye, and smile detection using Python and the OpenCV library.   
+I leveraged Haar-cascade classifiers to detect faces, eyes, and smiles in a webcam feed and draw rectangles around them.
 
 ## Prerequisites
 Before running the code, ensure you have the following dependencies installed:
