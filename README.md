@@ -33,7 +33,7 @@ You can install OpenCV and NumPy using pip:
 1. Clone this repository:
 git clone https://github.com/ChidimmaIdika/ComputerVision_Smile_Detection.git
 cd face-eye-smile-detection
-2. Run the face_eye_smile_detection.py script:
+2. Run the face_eye_smile_detection.py script:   
    python face_eye_smile_detection.py
 3. Press the 'q' key to exit the webcam feed.
 
