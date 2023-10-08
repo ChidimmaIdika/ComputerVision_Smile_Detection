@@ -25,13 +25,13 @@ Before running the code, ensure you have the following dependencies installed:
 - OpenCV (4.8.1.78 or higher)
 - NumPy (>=1.17.3)
    
-You can install OpenCV and NumPy using pip:
+You can install OpenCV and NumPy using pip:   
 !pip install opencv-python   
 !pip install numpy
 
 ## How to Use
 1. Clone this repository:
-git clone https://github.com/your-username/face-eye-smile-detection.git
+git clone https://github.com/ChidimmaIdika/ComputerVision_Smile_Detection.git
 cd face-eye-smile-detection
 2. Run the face_eye_smile_detection.py script:
    python face_eye_smile_detection.py
