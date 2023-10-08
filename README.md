@@ -31,7 +31,7 @@ You can install OpenCV and NumPy using pip:
 !pip install numpy
 
 ## How to Use
-1. Clone this repository:
+1. Clone this repository:   
 git clone https://github.com/ChidimmaIdika/ComputerVision_Smile_Detection.git
 cd face-eye-smile-detection
 2. Run the face_eye_smile_detection.py script:   
