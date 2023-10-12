@@ -45,6 +45,8 @@ The key components of this project are as follows:
 
 ## Sample Output
 ![image](https://github.com/ChidimmaIdika/ComputerVision_Smile_Detection/assets/137975543/0258fb47-b28d-4d32-86ed-07e960b63b38)
+![FES_D](https://github.com/ChidimmaIdika/ComputerVision_Smile_Detection/assets/137975543/abebd914-aff2-4527-978b-424fa9fa7e4b)
+
 
 ## License
 This project is licensed under the MIT License.
